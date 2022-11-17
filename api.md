@@ -131,7 +131,7 @@ Body
     "jabatan": "KEU"
 }
 ```
-Respone
+Response
 ```json
 {
     "status": ok,
@@ -152,7 +152,7 @@ Body
     "jabatan": "BAAK"
 }
 ```
-Respone
+Response
 ```json
 {
     "status": ok,
@@ -173,7 +173,7 @@ Body
     "jabatan": "BAAK"
 }
 ```
-Respone
+Response
 ```json
 {
     "status": ok,
