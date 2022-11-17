@@ -12,7 +12,7 @@ Selamat datang di Dokumentasi API `University`. Tujuan pembuatan Dokumentasi API
 ## API Protocol
 `HTTP`
 
-## API Respone
+## API Response
 | Parameters    |  Description  |
 | ------------- |:--------------|
 |status| `ok` Jika data berhasil di-push. `eror` Jika data tidak berhasil di-push|
