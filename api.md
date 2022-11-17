@@ -15,7 +15,7 @@ Selamat datang di Dokumentasi API `University`. Tujuan pembuatan Dokumentasi API
 ## API Response
 | Parameters    |  Description  |
 | ------------- |:--------------|
-|status| `ok` Jika data berhasil di-push. `eror` Jika data tidak berhasil di-push|
+|status| `ok` Jika data berhasil di-push. `error` Jika data tidak berhasil di-push|
 |message| Pesan response dari server|
 #### Examples :
 - `status: ok`
@@ -26,10 +26,10 @@ Selamat datang di Dokumentasi API `University`. Tujuan pembuatan Dokumentasi API
 }
 ```
 
-- `status: eror`
+- `status: error`
 ```json
 {
-    "status": eror,
+    "status": error,
     "message": "Gagal"
 }
 ```
